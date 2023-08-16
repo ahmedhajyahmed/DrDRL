@@ -1,0 +1,6 @@
+tensorflow==2.4.0
+gym==0.23.1
+pygame==2.1.2
+matplotlib
+openpyxl
+tensorflow-probability==0.12.0
